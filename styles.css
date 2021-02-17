@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "ms-33558";
+  font-family: "ms33558";
   src: url("https://candyfonts.com/wp-data/2019/08/19/81891/MS33558.ttf") format("truetype");
 }
 
@@ -11,7 +11,7 @@ h1 {
   text-align: center;
   font-size: 16px;
   color: #6f7a6e;
-  font-family: "ms-33558";
+  font-family: "ms33558";
   margin-top: 10;
 }
 
