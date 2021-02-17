@@ -1,8 +1,8 @@
 @font-face {
   font-family: "MS33558";
-  src: url("docs/ms33558.tff") format("woff"),
-       url("docs/ms33558.tff") format("opentype"),
-       url("docs/ms33558.tff") format("truetype");
+  src: url("docs/MS33558.ttf") format("woff"),
+       url("docs/MS33558.ttf") format("opentype"),
+       url("docs/MS33558.ttf") format("truetype");
 }
 
 body {
