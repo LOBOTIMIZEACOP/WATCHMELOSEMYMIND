@@ -1,6 +1,8 @@
 @font-face {
-  font-family: "ms33558";
-  src: url("https://candyfonts.com/wp-data/2019/08/19/81891/MS33558.ttf") format("truetype");
+  font-family: "MS33558";
+  src: url("docs/MS33558.ttf") format("woff"),
+       url("docs/MS33558.ttf") format("opentype"),
+       url("docs/MS33558.ttf") format("truetype");
 }
 
 body {
@@ -11,7 +13,7 @@ h1 {
   text-align: center;
   font-size: 16px;
   color: #6f7a6e;
-  font-family: "ms33558";
+  font-family: "MS33558";
   margin-top: 10;
 }
 
@@ -30,6 +32,6 @@ h1 {
 #gmail {
   color: #6f7a6e;
   font-size: 22px;
-  font-family: "ms-33558";
+  font-family: "MS33558";
 
 }
