@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "ms-33558";
-  src: url("docs/ms 33558.tff") format("woff"),
-       url("docs/ms 33558.tff") format("opentype"),
-       url("docs/ms 33558.tff") format("truetype");
+  font-family: "MS33558";
+  src: url("docs/ms33558.tff") format("woff"),
+       url("docs/ms33558.tff") format("opentype"),
+       url("docs/ms33558.tff") format("truetype");
 }
 
 body {
@@ -13,7 +13,7 @@ h1 {
   text-align: center;
   font-size: 16px;
   color: #6f7a6e;
-  font-family: "ms-33558";
+  font-family: "MS33558";
   margin-top: 10;
 }
 
@@ -32,6 +32,6 @@ h1 {
 #gmail {
   color: #6f7a6e;
   font-size: 22px;
-  font-family: "ms-33558";
+  font-family: "MS33558";
 
 }
