@@ -1,8 +1,6 @@
 @font-face {
   font-family: "ms-33558";
-  src: url("https://candyfonts.com/wp-data/2019/08/19/81891/MS33558.ttf") format("woff"),
-    url("https://candyfonts.com/wp-data/2019/08/19/81891/MS33558.ttf") format("opentype"),
-    url("https://candyfonts.com/wp-data/2019/08/19/81891/MS33558.ttf") format("truetype");
+  src: url("docs/ms33558.tff") format("truetype");
 }
 
 body {
