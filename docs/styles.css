@@ -1,13 +1,12 @@
 @font-face {
   font-family: "MS33558";
-  src: local("..fonts/MS33558.tff" format("truetype"),
-       url("..docs/MS33558.ttf") format("woff"),
+  src: url("..docs/MS33558.ttf") format("woff"),
        url("..docs/MS33558.ttf") format("opentype"),
        url("..docs/MS33558.ttf") format("truetype");
 }
 
 body {
-  background-color: rgba(0, 1, 0, 0.9);
+  background-color: rgba(0, 5, 0, 0.9);
 }
 
 h1 {
