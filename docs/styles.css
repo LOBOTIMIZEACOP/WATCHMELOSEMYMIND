@@ -14,10 +14,10 @@ body {
 h1 {
   text-align: center;
   font-size: 16px;
+  text-decoration: none;
   color: #6f7a6e;
   font-family: "ms_33558regular";
   margin-top: 10;
-  text decoration: none;
 }
 
 .image {
