@@ -37,5 +37,11 @@ h1 {
   font-size: 22px;
   font-family: "ms_33558regular";
   text-decoration: none;
+}
 
+#morse {
+  color: #6f7a6e;
+  font-size: 16px;
+  font-family: "MS 33558";
+  text decoration: none;
 }
