@@ -1,8 +1,10 @@
 @font-face {
-  font-family: "MS33558";
-  src: url("docs/MS33558.ttf") format("woff"),
-       url("docs/MS33558.ttf") format("opentype"),
-       url("docs/MS33558.ttf") format("truetype");
+    font-family: 'ms_33558regular';
+    src: url('ms33558-webfont.woff2') format('woff2'),
+         url('ms33558-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 body {
@@ -13,7 +15,7 @@ h1 {
   text-align: center;
   font-size: 16px;
   color: #6f7a6e;
-  font-family: "MS33558";
+  font-family: "ms_33558regular";
   margin-top: 10;
 }
 
@@ -32,6 +34,6 @@ h1 {
 #gmail {
   color: #6f7a6e;
   font-size: 22px;
-  font-family: "MS33558";
+  font-family: "ms_33558regular";
 
 }
