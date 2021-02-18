@@ -2,7 +2,7 @@
     font-family: 'ms_33558regular';
     src: url('ms33558-webfont.woff2') format('woff2'),
          url('ms33558-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 100;
     font-style: normal;
 
 }
