@@ -30,6 +30,7 @@ h1 {
   transform: translateX(-50%);
   max-width: auto;
   max-height: 900px;
+  margin-top: 50px;
 }
 
 #email {
